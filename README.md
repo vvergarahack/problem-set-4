@@ -53,7 +53,14 @@ Problem Set 4 contains 10 exercises, each of which will be written in separate m
 
 ### Exercise 1 (`surroundMe`)
 
-Requirements listed in source file documentation. Full description to be added later.
+Given two Strings, `out`and `in`, return a new String built by surrounding `in` with the first and last two characters of `out`. Return null if the input specifcations are not met.
+
+```
+surroundMe("<<>>", "abc") returns <<abc>>
+surroundMe("[[]]", "xyz") returns [[xyz]]
+surroundMe("abc", "abc") returns null
+surroundMe "(())", "qwerty") returns null
+```
 
 ### Exercise 2 (`endsMeet`)
 
