@@ -55,7 +55,7 @@ Problem Set 4 contains 10 exercises, each of which will be written in separate m
 
 `surroundMe` shoud be a publicly available  method that accepts a pair of `String`s as input, and returns a `String` as output.
 
-Given two `String`s, `out`and `in`, `return` a new `String` built by surrounding `in` with the first and last two characters of `out`. Return `null` if the following specifcations are not met.
+Given two `String`s, `out`and `in`, return a new `String` built by surrounding `in` with the first and last two characters of `out`. Return `null` if the following specifcations are not met.
 * `out` and `in` must not be `null`
 * `out` must be exactly 4 characters
 * `in` must be exactly 3 characters
