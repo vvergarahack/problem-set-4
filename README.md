@@ -181,7 +181,7 @@ isNotEqual(null) returns false
 
 `triplets` shoud be a publicly available method that accepts a `String` as input, and returns an `int` as output.
 
-Given a `String`, `str`, return the number of triplets. A triplet is defined as a case-sensitive sequence of 3 identical characters in a row. A triplet can overlap, meanning "AAAA" counts as 2 triplets. Return -1 if the following specifcations are not met.
+Given a `String`, `str`, return the number of triplets. A triplet is defined as a sequence of 3 identical characters in a row. Triplets are case-sensitive, meaning `AAa` is not triplet. Triplets can also overlap, meanning `AAAA` counts as 2 triplets. Return -1 if the following specifcations are not met.
 * `str` must not be `null`
 * `str` must not contain whitespace or non-alphabetic characters
 
