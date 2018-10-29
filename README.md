@@ -47,10 +47,6 @@ You should now see a `Project` in the `Package Explorer` in Eclipse.
 16. Expand the `Project` folder. You should see the ```JRE System Library``` folder, as well as the ```src``` folder.
 17. Expand the `src` folder. You should see a single source file named `ProblemSet4.java`. Double-click to open it.
 
-If you see the following starter code, then you've correctly cloned and setup your project.
-
-![problem set 4 skeleton code screenshot](https://www.ucvts.tec.nj.us/cms/lib/NJ03001805/Centricity/domain/760/apcsa-images/pset4-skeleton.png)
-
 ## Exercises
 
 Problem Set 4 contains 10 exercises, each of which will be written in separate methods. The `main` method has already been declared for you, but you'll need to implement most of it. You'll also need to declare and implement each of the 10 exercise methods. The specifications for this are included in this `README.md` file, as well as in comments within the `ProblemSet4.java` file.
